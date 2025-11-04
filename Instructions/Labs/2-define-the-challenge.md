@@ -2,7 +2,7 @@
 title: "Step 2: Define the Challenge"
 ---
 
-[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+[🏠 Home](../../)
 
 ## Step 2: Define the Challenge
 
@@ -65,4 +65,6 @@ In your template, fill in the **Problem or opportunity statement** section.  Sum
 
 ---
 
-[🏠 Home](../../) | #### Next Step: [Break Down the Problem](3-break-down-the-problem)
+[🏠 Home](../../)
+
+#### Next Step: [Break Down the Problem](3-break-down-the-problem)

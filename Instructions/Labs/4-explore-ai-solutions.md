@@ -2,7 +2,7 @@
 title: "Step 4: Explore AI Solutions"
 ---
 
-[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+[🏠 Home](../../)
 
 ## Step 4: Explore AI Solutions
 
@@ -54,4 +54,6 @@ In your template, fill in the **Approach Options** section.  Summarize the solut
 
 ---
 
-[🏠 Home](../../) | #### Next Step: [Make the Case](5-make-the-case)
+[🏠 Home](../../)
+
+#### Next Step: [Make the Case](5-make-the-case)

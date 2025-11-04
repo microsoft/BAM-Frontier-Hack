@@ -2,7 +2,7 @@
 title: "Step 3: Break Down the Problem"
 ---
 
-[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+[🏠 Home](../../)
 
 ## Step 3: Break Down the Problem
 
@@ -50,4 +50,6 @@ In your template, fill in the **Pain Points & Inefficiencies** section.  Summari
 
 ---
 
-[🏠 Home](../../) | #### Next Step: [Explore AI Solutions](4-explore-ai-solutions)
+[🏠 Home](../../)
+
+#### Next Step: [Explore AI Solutions](4-explore-ai-solutions)

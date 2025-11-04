@@ -2,7 +2,7 @@
 title: "Step 5: Make the Case"
 ---
 
-[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+[🏠 Home](../../)
 
 ## Step 5: Make the Case
 
@@ -46,4 +46,6 @@ In your template, fill in the **Chosen AI/Microsoft Solution & Why** section.  S
 
 ---
 
-[🏠 Home](../../) | **🎉 Lab Complete!**
+[🏠 Home](../../)
+
+**🎉 Lab Complete!**
