@@ -1,8 +1,10 @@
 ---
-title: "Step 4: Explore AI Solutions"
+title: "Step 4: Explore AI Solutions"
 ---
 
-## Step 4: Explore AI Solutions
+[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+
+## Step 4: Explore AI Solutions
 
 With your pain points mapped, explore possible solutions.  Use Copilot to surface ideas, review them and decide on the best option to carry forward.
 
@@ -50,4 +52,6 @@ Review the three summary bullets and the solution from Researcher along with any
 
 In your template, fill in the **Approach Options** section.  Summarize the solutions you reviewed, including the one you selected to carry forward.
 
-#### Next Step: [Make the Case](5-make-the-case)
+---
+
+[🏠 Home](../../) | #### Next Step: [Make the Case](5-make-the-case)

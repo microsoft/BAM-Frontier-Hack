@@ -1,8 +1,10 @@
 ---
-title: "Step 3: Break Down the Problem"
+title: "Step 3: Break Down the Problem"
 ---
 
-## Step 3: Break Down the Problem
+[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+
+## Step 3: Break Down the Problem
 
 Now that you’ve defined a problem statement, dig deeper.  Map out the pain points, inefficiencies and root causes that make this problem worth solving.
 
@@ -46,4 +48,6 @@ Explore the issue of [Insert Problem Statement Here]. Look for factors that cont
 
 In your template, fill in the **Pain Points & Inefficiencies** section.  Summarize the main breakdowns you identified, along with any root causes, impacts or suggestions surfaced with Copilot.
 
-#### Next Step: [Explore AI Solutions](4-explore-ai-solutions)
+---
+
+[🏠 Home](../../) | #### Next Step: [Explore AI Solutions](4-explore-ai-solutions)

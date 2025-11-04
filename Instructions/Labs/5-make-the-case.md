@@ -1,8 +1,10 @@
 ---
-title: "Step 5: Make the Case"
+title: "Step 5: Make the Case"
 ---
 
-## Step 5: Make the Case
+[🏠 Home](../../) | [📋 Lab Overview](../../#your-hack-event-journey)
+
+## Step 5: Make the Case
 
 Select the solution you believe is the best fit and justify your choice.  Explain clearly why you chose it, why others weren’t selected, and ensure it’s the right level of complexity.
 
@@ -40,6 +42,8 @@ Select one solution to carry forward.  For your chosen option, capture:
 
 **Section:** *Chosen AI/Microsoft Solution & Why*
 
-In your template, fill in the **Chosen AI/Microsoft Solution & Why** section.  Summarize the AI/Microsoft solution you selected, explain why it’s the best fit, and note why other options were not chosen.
+In your template, fill in the **Chosen AI/Microsoft Solution & Why** section.  Summarize the AI/Microsoft solution you selected, explain why it's the best fit, and note why other options were not chosen.
 
-#### Finish
+---
+
+[🏠 Home](../../) | **🎉 Lab Complete!**
