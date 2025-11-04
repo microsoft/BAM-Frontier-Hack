@@ -46,8 +46,4 @@ Explore the issue of [Insert Problem Statement Here]. Look for factors that cont
 
 In your template, fill in the **Pain Points & Inefficiencies** section.  Summarize the main breakdowns you identified, along with any root causes, impacts or suggestions surfaced with Copilot.
 
----
-
-[🏠 Home](../../)
-
 #### Next Step: [Explore AI Solutions](4-explore-ai-solutions)
